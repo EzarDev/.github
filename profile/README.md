@@ -1,30 +1,33 @@
-# eZaR - The Multi-Bot
-eZaR, A bot made for multi purpose. First founded by Sham#4769 and maintained by NotAlexy_Kyu#4003.
+<h2 align="center">
+  <img src="https://cdn.discordapp.com/attachments/911196753863262218/964630065570779166/eZaR_Green.png" height='100px' width='100px'>
+</h2>
 
-eZaR has lots of commands to offer starting from moderation commands, utility commands, and much more! with eZaR's easy setup and active staff ready to help you in the support server eZaR will surely be you're favourite bot in Discord! Invite eZaR today for free! And enchante you're discord experience.
+<h1 align="center">eZaR</h1>
+<h4 align="center">The new amazing and <em>actually helpful</em> bot on Discord.</h4>
 
-### Bot Command Categories
-🎉 Giveaways - Start Giveaway, Re-Roll Giveaway
+<h2>What is eZaR?</h2>
+<p>eZaR is a server configuration bot that can assist with welcoming, auto-roles, logging, tags, and so much more!<p>
 
-🔨 Moderation - Clear, Kick, Ban, Set Slow-mode, Warn, Remove Warn, Mute, Un-Mute, Lock, Unlock
+<h2>eZaR's Features</h2>
+<ul>
+	<li>Has 50+ commands</li>
+	<li>99% Uptime</li>
+	<li>Fast response time with up to 100ms ping</li>
+	<li>Fast Support (Has developers with no lives)</li>
+	<li>Lots of Server-Configuration & Moderation related commands</li>
+	<li>User-Friendly</li>
+	<li>Updated very often</li>
+	<li>And so much more!</li>
+</ul>
 
-🔧 Utility - Server Info, User Info, Add Emoji, Set Nick-Name, Poll
+<h2>How do I help?</h2>
+<p>Simply just join the support server, report some bugs or make some suggestions, Donate to our <a href="https://paypal.me/realShamlol">PayPal</a> or even just up-vote the bot a lot. Any of these are highly appreciated and help us a lot!</p>
 
-😂 Fun - Meme, 8Ball, Say, Member Avatar, Epic Rate, Simp Rate, Chad Rate, Act, Bully, Cuddle, Kiss, Cry
-
-🎫 Tickets - Setup Ticket-Support Role, Setup Ticket, Close Ticket, Force Close, Debug Ticket
-
-💰 Economy - Balance, Work, Beg
-
-🎮 - Catch the Racoon, Border Game
-
-
-### Team
-Sham - Founder, Maintainer, CEO
-
-Alexy - Co-Founder, Maintainer, CEO
-
-Thominek - Community Manager
-
-### Support Server
-![](https://invidget.switchblade.xyz/2Usu8E5KK4)
+<h2>Links</h2>
+<ul>
+	<li><a href="https://ezar.shamdev.xyz">Website</a></li>
+	<li><a href="https://ezar.shamdev.xyz/discord">Support Server</a></li>
+	<li><a href="https://github.com/eZaR-Bot">Github</a></li>
+	<li><a href="https://ezar.shamdev.xyz/team">Team</a></li>
+	<li><a href="https://discord.com/oauth2/authorize?client_id=906816722676371496&scope=bot+applications.commands&permissions=534722768119">Invite</a></li>
+</ul>
