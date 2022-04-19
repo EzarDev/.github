@@ -1,5 +1,5 @@
 <h2 align="center">
-  <img src="https://cdn.discordapp.com/attachments/911196753863262218/964630065570779166/eZaR_Green.png" height='100px' width='100px'>
+  <img src="https://capy-cdn.xyz/tHGcq1sz.png" height='100px' width='100px'>
 </h2>
 
 <h1 align="center">eZaR</h1>
