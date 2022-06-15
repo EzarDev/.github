@@ -22,7 +22,7 @@ eZaR is a server configuration bot that can assist with welcoming, auto-roles, l
 
 ## How do I help?
 
-Simply just join the support server, report some bugs or make some suggestions, Donate to our [PayPal](https://paypal.me/realShamlol) or even just up-vote the bot a lot. Any of these are highly appreciated and help us a lot!
+Simply just join the support server, report some bugs or make some suggestions, Contribute to the repository, Donate to our [PayPal](https://paypal.me/realShamlol) or even just up-vote the bot a lot. Any of these are highly appreciated and help us a lot!
 
 ## Links
 
