@@ -7,7 +7,7 @@
 
 ## What is eZaR?
 
-/eZaR is a server configuration bot that can assist with welcoming, auto-roles, logging, tags, and so much more!
+eZaR is a server configuration bot that can assist with welcoming, auto-roles, logging, tags, and so much more!
 
 ## eZaR's Features
 
